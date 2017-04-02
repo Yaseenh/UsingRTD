@@ -19,6 +19,7 @@ Web Hooks             Webhook subscriptions and management tools                
 **Trackmatic**
 **************
 
+.. _Loads_docs:
 .. toctree::
    :caption: Loads
    :name: mastertoc
@@ -33,7 +34,9 @@ Web Hooks             Webhook subscriptions and management tools                
    loads/web-hooks/payloads
    webhooks/web-hooks
 
-   .. toctree::
+.. _Blob-Storage_docs:
+
+.. toctree::
    :caption: Blob-Storage
    :name: mastertoc
    :hidden:
