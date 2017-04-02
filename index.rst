@@ -27,12 +27,12 @@ Web Hooks             Webhook subscriptions and management tools                
    :numbered:
 
    newAmend
-   loads/drivers/loads/active-load
-   blob-storage/blob-storage
-   loads/integration/import
-   loads/drivers/sessions/session-management
-   loads/web-hooks/payloads
-   webhooks/web-hooks
+   load/Overview
+   load/Terminology
+   load/Integration
+   load/Drivers
+   load/Shippers
+   load/Hauliers
 
 .. _Blob-Storage_docs:
 
