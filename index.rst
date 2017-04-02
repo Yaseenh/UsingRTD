@@ -20,7 +20,21 @@ Web Hooks             Webhook subscriptions and management tools                
 **************
 
 .. toctree::
-   :caption: Table of Contents
+   :caption: Loads
+   :name: mastertoc
+   :hidden:
+   :numbered:
+
+   newAmend
+   loads/drivers/loads/active-load
+   blob-storage/blob-storage
+   loads/integration/import
+   loads/drivers/sessions/session-management
+   loads/web-hooks/payloads
+   webhooks/web-hooks
+
+   .. toctree::
+   :caption: Blob-Storage
    :name: mastertoc
    :hidden:
    :numbered:
