@@ -54,4 +54,10 @@ A session shoud be closed only once all data has been flushed from the store and
 `Active Load`_
 ==============
 
-.. _Active Load: loads/drivers/loads/active-load
+.. _Active Load: <../loads/drivers/loads/active-load.rst>
+
+
+like usual: :doc:`Monty Python members </loads/drivers/loads/active-load>`
+
+like usual: :doc:`Monty Python members </loads/drivers/loads/active-load>`
+==========================================================================
