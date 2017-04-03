@@ -50,7 +50,7 @@ A session shoud be closed only once all data has been flushed from the store and
 
 :code:`PUT /{organiastionId}/sessions{sessionId}/close`
 
-Active Load
+Active Load_
 ===========
 
-`loads/drivers/loads/active-load`_
+.. _Load: loads/drivers/loads/active-load
