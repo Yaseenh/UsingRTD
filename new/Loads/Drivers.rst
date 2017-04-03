@@ -50,7 +50,9 @@ A session shoud be closed only once all data has been flushed from the store and
 
 :code:`PUT /{organiastionId}/sessions{sessionId}/close`
 
-
+***********************************************************************
+:doc:`Session Management <loads/drivers/sessions/session-management>`
+***********************************************************************
 
 :doc:`Active Load </loads/drivers/loads/active-load>`
 =====================================================
