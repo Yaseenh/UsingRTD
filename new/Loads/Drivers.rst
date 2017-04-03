@@ -54,4 +54,4 @@ A session shoud be closed only once all data has been flushed from the store and
 `Active Load`_
 ==============
 
-.. _Active Load: https://github.com/ralsina/rst-cheatsheet/blob/master/rst-cheatsheet.rst
+.. _Active Load: loads/drivers/loads/active-load
