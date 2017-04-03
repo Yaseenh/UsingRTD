@@ -50,7 +50,8 @@ A session shoud be closed only once all data has been flushed from the store and
 
 :code:`PUT /{organiastionId}/sessions{sessionId}/close`
 
-Active Load_
-===========
 
-.. _Load: loads/drivers/loads/active-load
+`Active Load`_
+==============
+
+.. _Active Load: https://github.com/ralsina/rst-cheatsheet/blob/master/rst-cheatsheet.rst
