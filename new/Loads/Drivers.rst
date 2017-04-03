@@ -49,3 +49,6 @@ Closing a session
 A session shoud be closed only once all data has been flushed from the store and forward mechanism. Closing a session before that could result in data loss.
 
 :code:`PUT /{organiastionId}/sessions{sessionId}/close`
+
+Active Load
+===========
